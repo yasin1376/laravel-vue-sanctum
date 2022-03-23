@@ -23228,9 +23228,9 @@ var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
   style: {
     "margin": "20px 0px 20px 0px"
   }
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <a href=\"https://shouts.dev/\" target=\"_blank\"><img src=\"https://i.imgur.com/Nt3kJXa.png\"></a><br>"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
   "class": "text-secondary"
-}, "Laravel SPA with Vue 3, Auth (Sanctum), CURD Example")], -1
+}, "Laravel SPA with Vue 3, Auth (Sanctum)")], -1
 /* HOISTED */
 );
 
